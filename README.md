@@ -1,11 +1,11 @@
 # ZILNC
-##ZFM's In-house Lyric Notation Converter
+## ZFM's In-house Lyric Notation Converter
 This program was made to convert Genius lyric notation to Musixmatch lyric notation and vice versa because I was fucking over manually doing it lol.
 
 ## Instructions:
 ZILNC works both with and without command line arguments.
 
-###With command line arguments:
+### With command line arguments:
 1. (Optional but reccommended )Place ZILC.py wherever the text file you want to convert is.
 2. Run ZILNC in the terminal with the following info as command line arguments in this order:
     - The name of the file you want to convert
